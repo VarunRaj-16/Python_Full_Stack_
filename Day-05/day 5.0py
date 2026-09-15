@@ -1,0 +1,23 @@
+#Types of Operators in Python
+#1. Arithmetic Operators
+# Addition
+a = 10
+b = 2
+print(a + b)                # 12
+# Subtraction
+print(10 - 2)               # 8
+# Multiplication
+print(10 * 2)               # 20
+# Division (/) → returns float
+print(10 / 2)               # 5.0
+print(153 / 10)             # 15.3
+# Floor Division (//)
+print(10 // 2)              # 5
+print(153 // 10)            # 15
+# Modulus (%)
+print(10 % 3)               # 1
+print(100 % 10)             # 0
+print(123 % 10)             # 3
+# Exponent (**)
+print(10 ** 2)              # 100
+print(2 ** 5)               # 32
